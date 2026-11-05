@@ -1,2 +1,2 @@
-# think-with-at-las-ver
+# atlas
 "At last, Atlas can be asked,"
